@@ -40,7 +40,7 @@ left: 153px;
     &:focus {
         box-shadow: 0px 0 15px rgb(83, 255, 170);
     }
-    }
+    
 `
 
 
